@@ -1,9 +1,4 @@
-/**
-* Template Name: Vesperr - v2.1.0
-* Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 .utton {
   border-radius: 4px;
   background-color: #f4511e;
@@ -52,7 +47,7 @@
 #grad2 {
   
   background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(90deg, red, white); /* Standard syntax (must be last) */
+  background-image: linear-gradient(90deg, #003366, white); /* Standard syntax (must be last) */
 }
 
 #grad3 {
@@ -64,7 +59,7 @@
 #grad4 {
   
   background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(-90deg, red, white); /* Standard syntax (must be last) */
+  background-image: linear-gradient(-90deg, #003366,white); /* Standard syntax (must be last) */
 }
 
 
